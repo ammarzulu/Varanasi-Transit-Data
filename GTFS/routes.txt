@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_color,route_text_color
+E101,1,MZD-BabatpurAirport 101,Mirzamurad-Mohansarai-Cantt-LBS Airport- Babatpur Chauraha,,
+E102,1,Mirzamurad-Babatpur 102,Mirzamurad-Mohansarai-Cantt-Babatpur Chauraha,,
+E103,1,Mirzamurad-Cantt-Lanka103,Mirzamurad-Kachhawan-Mohansarai- Cantt- Bhelupur-Lanka,,
+E104,1,Mirzamurad-Sindharo104,Mirzamurad-Mohansarai-Cantt- Bhojubeer-Sindhora,,
+E105,1,Mirzamurad-Darsauna-Danganj 105,Mirzamurad-Mohansarai-Cantt-Pandaypur-Dharsauna-Danganj,,
+E106,1,Mirzamurad-Chubpur-MARKAND 106,Mirzamurad-Mohansarai-Cantt-Pandeypur-Chubeypur-Markandey Mahadev,,
+E107A,1,Mirzamurad-Sarnath-Lanka 107A,Mirzamurad-Mohansarai-Cantt-Ashapur-Sarnath -Lanka,,
+E107,1,MZD-Lanka-Sarnath 107,Mirzamurad-Mohansarai-Cantt-Ashapur-Lanka -Sarnath,,
+E108,1,MZD-DLW-Cantt-Sarnth-Lanka108,Mirzamurad- Akhari-DLW-Cantt-JHV Mall- Kachahari- Ashapur- Sarnath- Cantt-Bhelupur- Lanka-DLW- Cantt,,
+E109,1,MZD-Cantt-Rajgt- DLW-Lanka109,Mirzamurad-Mohansarai-Cantt-Rajghat-Cantt-DLW-Lanka-Bhelupur-Cantt,,
+E110,1,MZD-CANT-GODAULIA-CANTT110,Mirzamurad-Mohansarai-Cantt- Girjaghar-  Lahurabir- Chaukaghat- Cantt- Maldahiya- Lahurabir- Maidagin-Golgadda-Cantt,,
+E111,1,MZD-CANT-GODAULIA-CANTT111,Mirzamurad-Mohansari-Cantt-Golgadda-Rajghat-Cantt- Bhelupur- Lanka,,
