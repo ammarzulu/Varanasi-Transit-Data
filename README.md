@@ -7,7 +7,7 @@ This repository contains the the code and the data used for converting Varanasi'
 
 ### DATA DESCRIPTION
 
-[GTFS/GTFS)
+[/GTFS)
 - These contains the routes, stops, trips,  stop times, shapes of Varanasi in GTFS format.
    
 
