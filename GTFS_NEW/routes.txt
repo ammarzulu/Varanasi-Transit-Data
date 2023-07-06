@@ -1,0 +1,20 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+E101,1,MZD-BabatpurAirport 101,Mirzamurad-Mohansarai-Cantt-LBS Airport- Babatpur Chauraha,3,,
+E102,1,Mirzamurad-Babatpur 102,Mirzamurad-Mohansarai-Cantt-Babatpur Chauraha,3,,
+E103,1,Mirzamurad-Cantt-Lanka103,Mirzamurad-Kachhawan-Mohansarai- Cantt- Bhelupur-Lanka,3,,
+E104,1,Mirzamurad-Sindharo104,Mirzamurad-Mohansarai-Cantt- Bhojubeer-Sindhora,3,,
+E105,1,Mirzamurad-Darsauna-Danganj 105,Mirzamurad-Mohansarai-Cantt-Pandaypur-Dharsauna-Danganj,3,,
+E106,1,Mirzamurad-Chubpur-MARKAND 106,Mirzamurad-Mohansarai-Cantt-Pandeypur-Chubeypur-Markandey Mahadev,3,,
+E107A,1,Mirzamurad-Sarnath-Lanka 107A,Mirzamurad-Mohansarai-Cantt-Ashapur-Sarnath -Lanka,3,,
+E107,1,MZD-Lanka-Sarnath 107,Mirzamurad-Mohansarai-Cantt-Ashapur-Lanka -Sarnath,3,,
+E108,1,MZD-DLW-Cantt-Sarnth-Lanka108,Mirzamurad- Akhari-DLW-Cantt-JHV Mall- Kachahari- Ashapur- Sarnath- Cantt-Bhelupur- Lanka-DLW- Cantt,3,,
+E109,1,MZD-Cantt-Rajgt- DLW-Lanka109,Mirzamurad-Mohansarai-Cantt-Rajghat-Cantt-DLW-Lanka-Bhelupur-Cantt,3,,
+E110,1,MZD-CANT-GODAULIA-CANTT110,Mirzamurad-Mohansarai-Cantt- Girjaghar-  Lahurabir- Chaukaghat- Cantt- Maldahiya- Lahurabir- Maidagin-Golgadda-Cantt,3,,
+E111,1,MZD-CANT-GODAULIA-CANTT111,Mirzamurad-Mohansari-Cantt-Golgadda-Rajghat-Cantt- Bhelupur- Lanka,3,,
+1,1,Cantt Railway Station - Girja Ghar Crossing,Cantt Railway Station-Sajan Tiraha-Nagar Nigam Tiraha-Rathyathra-Girja Ghar Crossing,6,FF0000,
+2,1,Cantt Railway Station - Godowlia,Cantt Railway Station- Varanasi City Station - Khirkia Ghat - Machodari Park - Godowlia,6,00FF00,
+3,1,Sarnath - Khirkia Ghat,Sarnath-Ashapur-PanchKoshi Chauraha-Konia-Khirkia Ghat,6,A52A2A,
+4,1,Cantt Railway Station - BHU,Cantt Railway Station - Lahartara Crossing - Manduwadih Chauraha  - Bhikaripur Crossing - BHU,6,FFC0CB,
+5,1,Rathyathra - Ramnagar,Rathyathra-Vijay Chauraha-BHU-Ramnagar Fort-Ramnagar,6,00FF00,
+
+
